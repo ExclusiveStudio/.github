@@ -8,5 +8,3 @@ No nosso **GitHub** você poderá encontrar projetos **opensource** desenvolvido
 
 * [Acesse nosso discord!](https://discord.com/invite/JS8RUSGEAP)
 * [Descubra mais sobre nós em nosso site!](https://exclusivestudio.store)
-
-Visit [opensource.microsoft.com](https://opensource.microsoft.com) to learn more!
