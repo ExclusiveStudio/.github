@@ -1,4 +1,4 @@
-![Open Source at Microsoft](https://cdn.discordapp.com/attachments/665705250862399510/1038936867325886514/Banner_00000.png) 
+![Banner](https://media.discordapp.net/attachments/665705250862399510/1048701500790161469/unknown.png?width=1192&height=670) 
 
 ## Exclusive Studio
 
